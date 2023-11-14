@@ -1,0 +1,17 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    font-family: 'Montserrat', sans-serif;   
+}
+.invalid{
+    border: solid 1px #dc143c;
+    box-shadow: 0px 0px 10px #dc143c;
+}
+.error{
+    background-color: #dc143c;
+    color: white;
+    padding: 3px;
+    font-size: 12px;
+    display: inline-block;
+}
